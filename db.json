@@ -6,6 +6,44 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "matheus@email.com",
+      "password": "$2a$10$1g0LYJmFHpBDS.TtH9Rde./PzP6xD18gtKLVuL8jNzJbJlRCKmEme",
+      "id": 2
+    },
+    {
+      "email": "matheus@gmail.com",
+      "password": "$2a$10$gDrnyuz.drJ4IztUB4NVAe29zp5CiImQ7oFEY4wGGU/ddEHFOHApG",
+      "id": 3
+    }
+  ],
+  "Skills": [
+    {
+      "Nome": "JS",
+      "Nível": "Avançado",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "Nome": "React",
+      "Nível": "Avançado",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "libraries": [
+    {
+      "nome": "Router-Dom"
+    },
+    {
+      "nome": "Styled Components"
+    },
+    {
+      "nome": "Redux"
+    },
+    {
+      "nome": "Material UI"
     }
   ]
 }
